@@ -469,8 +469,6 @@ class _SignUpState extends State<SignUp> {
 
 ### Presentasi via Youtube 
 
-https://youtu.be/Z4wlUMUB6zE
-
 
 
 #### Terima Kasih
