@@ -462,7 +462,9 @@ class _SignUpState extends State<SignUp> {
 
 ![20240710_100158](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/d7aee87c-312a-4b98-a416-27a984e48b97)
 
-![20240710_100314](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/98c07560-e7c0-465d-8794-068bc4376edb)
+
+
+![20240710_100347](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/b748733e-91e3-43cf-a1c3-738ce6e99cdf)
 
 
 > Halaman pencarian atau `search`, yaitu bagian untuk mencari jenis note yang di butuhkan jika pengguna membuat banyak note. Search ini memudahkan pengguna agar tidak mencari satu per satu note yang di butuhkan
