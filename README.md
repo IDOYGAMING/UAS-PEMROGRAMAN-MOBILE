@@ -3,16 +3,7 @@
 
 #### NIM : 312210643
 
-#### Kelas : TI.22.A5
-
-# Daftar Isi
-
-1. Code untuk main.dart
-2. Code untuk login.dart
-3. Code untuk signup.dart
-4. Kumpulan file yang di buat untuk Program Aplikasi Note
-5. Outputnya
-6. Presentasi via Youtube 
+#### Kelas : TI.22.A5 
 
 # PROJECT FLUTTER [Aplikasi Note]
 > main.dart
@@ -446,25 +437,35 @@ class _SignUpState extends State<SignUp> {
 
 ```
 
-### Kumpulan file yang di buat untuk Program Aplikasi Note
+### file yang di buat untuk Program Aplikasi Note
 > Kumpulan file yang dibuat untuk Aplikasi Note ini dapat dilihat di sisi kiri. Untuk file-filenya, yaitu `login.dart`, `signup.dart`, `note_model.dart`, `users.dart`, `sqlite.dart`, `create_note.dart`, `notes.dart` dan `main.dart`. File-file ini tedapat pada folder `../lib/..` yang kemudian di kelompokkan lagi ke dalam folder baru secara terpisah
 
-![Screenshot 2024-07-09 113820](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/d497e9d7-fc91-4ec1-ae57-198aab80a605)
+![flut1](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/48c3deee-89ee-40e6-a137-acf7c81a81f4)
+
 
 
 ### Outputnya :
 
-![Screenshot 2024-07-09 111956](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/b266a692-b469-437e-9f90-35ad9a161267)
+![20240710_095659](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/519afbaa-035a-45d0-b557-daf6fe07068d)
+
+![20240710_095801](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/9d8fc695-bc88-4c8f-ac4e-099878e56ab0)
+
+![20240710_095921](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/c64c0bc2-88e3-4f09-a67c-e13c31d7d58e)
+
 
 > Untuk menambahkan note baru, klik tombol `+` pada bagian kanan bawah, nantinya pengguna akan di arahkan ke halaman pembuatan note baru
 
 > Untuk pembaruan note, bisa dilakukan dengan `mengklik note yang sudah di buat`, nantinya pengguna bisa langsung memperbarui isi maupun judul note tersebut
 
-![Screenshot 2024-07-09 112016](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/97de8be2-cecb-4fb5-888c-0a8124f1210b)
+![20240710_100158](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/d7aee87c-312a-4b98-a416-27a984e48b97)
+
+![20240710_100314](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/98c07560-e7c0-465d-8794-068bc4376edb)
+
 
 > Halaman pencarian atau `search`, yaitu bagian untuk mencari jenis note yang di butuhkan jika pengguna membuat banyak note. Search ini memudahkan pengguna agar tidak mencari satu per satu note yang di butuhkan
 
-![Screenshot 2024-07-09 112034](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/543f7518-55f0-4062-9757-56f2be8b7cda)
+![20240710_100314](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/c8e7c01e-399a-4e28-ab5c-ef886f6f1058)
+
 
 
 ### Presentasi via Youtube 
