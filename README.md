@@ -446,10 +446,13 @@ class _SignUpState extends State<SignUp> {
 
 ### Outputnya :
 
+### halaman registrasi:
 ![20240710_095659](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/519afbaa-035a-45d0-b557-daf6fe07068d)
 
+### halaman login:
 ![20240710_095801](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/9d8fc695-bc88-4c8f-ac4e-099878e56ab0)
 
+### halaman home
 ![20240710_095921](https://github.com/IDOYGAMING/UAS-PEMROGRAMAN-MOBILE/assets/130022256/c64c0bc2-88e3-4f09-a67c-e13c31d7d58e)
 
 
